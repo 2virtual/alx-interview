@@ -3,7 +3,7 @@ from typing import List
 
 def pascal_triangle(n: int) -> List[List[int]]:
     '''
-    Generate Pascal's triangle up to the given number of rows
+    Generate Pascal's triangle up to the given number of all rows
 
     Args:
         n (int): Number of rows to generate in Pascal's triangle
