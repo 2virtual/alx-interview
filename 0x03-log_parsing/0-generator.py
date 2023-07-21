@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''This  script  generates random HTTP request logs.
+'''This script will generate random HTTP request logs.
 '''
 import random
 import sys
